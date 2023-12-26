@@ -11,6 +11,10 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
+- 📝 I regularly write articles on [https://medium.com/@manupriyan722](https://medium.com/@manupriyan722)
+
+- 📫 How to reach me **manupriyan722@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
