@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manu-git-b-s&show_icons=true&locale=en" alt="manu-git-b-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manu-git-b-s&" alt="manu-git-b-s" /></p>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
